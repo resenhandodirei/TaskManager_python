@@ -22,7 +22,7 @@ Para executar o projeto, você precisará de:
 
 1. Clone este repositório para o seu ambiente local:
     ```bash
-    git clone https://github.com/seu-usuario/gerenciador-de-tarefas.git
+    git clone https://github.com/resenhandodirei/TaskManager_python
     ```
    
 2. Acesse a pasta do projeto:
